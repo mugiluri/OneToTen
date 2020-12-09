@@ -1,5 +1,5 @@
 # OneToTen
-Remote Icebreaker. How fast and correct can you answer 15 questions? 
+Remote Icebreaker game. How fast and correct can you answer 15 questions? 
 They're simple random math questions involving numbers 1-10. 
 The code is programmed in C# with #microsoft #visualstudio 2019. 
 It's a windows desktop application. #winforms Anyone can do it. 
