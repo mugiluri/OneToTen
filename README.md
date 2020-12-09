@@ -6,7 +6,7 @@ It's a windows desktop application. #winforms Anyone can do it.
 Ideal for remote teams and hackathon warm up.
 
 #### Algorithm ####
-- The solution code is in [this file]()
+- The programmable code is in [this file](Form1.cs)
 
 #### Calculating your score ####
 - Based on;
