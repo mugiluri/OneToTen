@@ -6,4 +6,4 @@ It's a windows desktop application. #winforms Anyone can do it.
 Ideal for remote teams and hackathon warm up.
 
 Clone/zip the project and open it with visual studio.
-[Find Windows setup file here]: https://drive.google.com/drive/folders/1rmFn20IXY4f9pz_pt4YHJYTXuJnlaWhG?usp=sharing
+[Find Windows setup file here](https://drive.google.com/drive/folders/1rmFn20IXY4f9pz_pt4YHJYTXuJnlaWhG?usp=sharing)
