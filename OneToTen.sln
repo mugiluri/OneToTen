@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneToTen", "OneToTen.csproj", "{AAD64859-4D66-43E6-BF96-E16F0639C97E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupOneToTen", "..\SetupOneToTen\SetupOneToTen.vdproj", "{224C3C59-B191-4A47-A4D4-B0406212C76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD64859-4D66-43E6-BF96-E16F0639C97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD64859-4D66-43E6-BF96-E16F0639C97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD64859-4D66-43E6-BF96-E16F0639C97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD64859-4D66-43E6-BF96-E16F0639C97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224C3C59-B191-4A47-A4D4-B0406212C76D}.Debug|Any CPU.ActiveCfg = Debug
+		{224C3C59-B191-4A47-A4D4-B0406212C76D}.Release|Any CPU.ActiveCfg = Release
+		{224C3C59-B191-4A47-A4D4-B0406212C76D}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C371DB0-CE4E-47D5-9CC5-A66CEC406AEE}
+	EndGlobalSection
+EndGlobal
