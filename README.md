@@ -16,6 +16,7 @@ Ideal for remote teams and hackathon warm up.
   - Sc = Ca*(C/t)
     - The more correct answers one gets, the higher the score
     - The more time one uses, the lower the constant hence score
+    - If one provides all wrong answers, the score will be 0. Sc = 0*(180/t)
   
 Score = NoOfCorrectAnswers*(180/time)
 
