@@ -8,10 +8,12 @@ Ideal for remote teams and hackathon warm up.
 #### Algorithm ####
 - The programmable code is in [this file](Form1.cs)
 
-#### Calculating your score ####
+#### Calculating the score ####
 - Based on;
-  - Time in seconds
-  - Number of correct answers
+  - t = Time in seconds
+  - Ca = Number of correct answers
+  - C = Constant(180)
+  - Sc = Ca*(C/t)
   
 Score = NoOfCorrectAnswers*(180/time)
 
